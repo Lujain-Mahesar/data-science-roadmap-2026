@@ -1,4 +1,4 @@
-# Data Science Roadmap Progress — 2026
+# Data Science Roadmap Progress - 2026
 
 Tracking my 220-day data science learning journey.
 
