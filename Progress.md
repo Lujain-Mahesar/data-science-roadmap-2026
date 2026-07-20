@@ -7,7 +7,7 @@ Tracking my 220-day data science learning journey.
 ## Phase 1: Python Fundamentals (Day 1–30)
 - [x] Day 1: What is Data Science + environment setup
 - [x] Day 2: Variables & data types
-- [ ] Day 3: Operators, type casting
+- [x] Day 3: Operators, type casting
 - [ ] Day 4: Conditional statements
 - [ ] Day 5: Loops
 - [ ] Day 6: Practice problems
