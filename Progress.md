@@ -9,7 +9,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 2: Variables & data types
 - [x] Day 3: Operators, type casting
 - [x] Day 4: Conditional statements
-- [ ] Day 5: Loops
+- [x] Day 5: Loops
 - [ ] Day 6: Practice problems
 - [ ] Day 7: Mini test + revision
 - [ ] Day 8: Lists
