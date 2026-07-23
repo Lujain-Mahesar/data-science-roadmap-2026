@@ -11,7 +11,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 4: Conditional statements
 - [x] Day 5: Loops
 - [x] Day 6: Practice problems
-- [ ] Day 7: Mini test + revision
+- [x] Day 7: Mini test + revision
 - [ ] Day 8: Lists
 - [ ] Day 9: Tuples & Sets
 - [ ] Day 10: Dictionaries
