@@ -13,7 +13,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 6: Practice problems
 - [x] Day 7: Mini test + revision
 - [x] Day 8: Lists
-- [ ] Day 9: Tuples & Sets
+- [x] Day 9: Tuples & Sets
 - [ ] Day 10: Dictionaries
 - [ ] Day 11: String operations
 - [ ] Day 12: Functions
