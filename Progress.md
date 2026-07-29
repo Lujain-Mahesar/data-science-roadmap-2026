@@ -17,7 +17,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 10: Dictionaries
 - [x] Day 11: String operations
 - [x] Day 12: Functions
-- [ ] Day 13: Lambda, map/filter/reduce & recursion
+- [x] Day 13: Lambda, map/filter/reduce & recursion
 - [ ] Day 14: Practice + revision
 - [ ] Day 15: File handling
 - [ ] Day 16: Exception handling
