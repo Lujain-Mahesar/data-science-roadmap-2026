@@ -20,7 +20,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 13: Lambda, map/filter/reduce & recursion
 - [x] Day 14: Practice + revision
 - [x] Day 15: File handling
-- [ ] Day 16: Exception handling
+- [x] Day 16: Exception handling
 - [ ] Day 17: OOP – classes & objects
 - [ ] Day 18: OOP – inheritance, polymorphism
 - [ ] Day 19: Modules & packages
