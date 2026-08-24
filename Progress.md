@@ -23,7 +23,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 16: Exception handling
 - [x] Day 17: OOP – classes & objects
 - [x] Day 18: OOP – inheritance, polymorphism
-- [ ] Day 19: Modules & packages
+- [x] Day 19: Modules & packages
 - [ ] Day 20: Python libraries overview
 - [ ] Day 21: Practice problems
 - [ ] Day 22: Intro to NumPy
