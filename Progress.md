@@ -26,7 +26,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 19: Modules & packages
 - [x] Day 20: Python libraries overview
 - [x] Day 21: Practice problems
-- [ ] Day 22: Intro to NumPy
+- [x] Day 22: Intro to NumPy
 - [ ] Day 23: Arrays & indexing
 - [ ] Day 24: Array operations
 - [ ] Day 25: Math functions & broadcasting
