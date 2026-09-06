@@ -28,8 +28,8 @@ Tracking my 220-day data science learning journey.
 - [x] Day 21: Practice problems
 - [x] Day 22: Intro to NumPy
 - [x] Day 23: Arrays & indexing
-- [ ] Day 24: Array operations
-- [ ] Day 25: Math functions & broadcasting
+- [x] Day 24: Array operations
+- [x] Day 25: Math functions & broadcasting
 - [ ] Day 26: Git & GitHub
 - [ ] Day 27: Real-world NumPy use
 - [ ] Day 28: Practice
