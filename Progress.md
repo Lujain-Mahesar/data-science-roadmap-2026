@@ -30,7 +30,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 23: Arrays & indexing
 - [x] Day 24: Array operations
 - [x] Day 25: Math functions & broadcasting
-- [ ] Day 26: Git & GitHub
+- [x] Day 26: Git & GitHub
 - [ ] Day 27: Real-world NumPy use
 - [ ] Day 28: Practice
 - [ ] Day 29-30: Mini project (NumPy analysis) + revision
