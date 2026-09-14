@@ -33,7 +33,7 @@ Tracking my 220-day data science learning journey.
 - [x] Day 26: Git & GitHub
 - [x] Day 27: Real-world NumPy use
 - [x] Day 28: Practice
-- [ ] Day 29-30: Mini project (NumPy analysis) + revision
+- [x] Day 29-30: Mini project (NumPy analysis) + revision
 
 ## Phase 2: Data Structures & Algorithms Basics (Day 31–40)
 - [ ] Day 31: Big O notation
